@@ -70,8 +70,7 @@ const Applications = () => {
                 className="py-3 px-4 border-b text-left max-sm:hidden"
                 max-sm:hidden
               >
-                {" "}
-                max-sm:hiddenDate
+              Date
               </th>
               <th className="py-3 px-4 border-b text-left max-sm:hidden">
                 Status
