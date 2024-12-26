@@ -913,5 +913,38 @@ export const jobsData = [
         salary: 102000,
         date: 1729681667114,
         category: "Programming",
+    },
+    {
+        _id: '24',
+        title: "Laravel Developer",
+        location: "Ahmedabad",
+        level: "Intermediate Level",
+        companyId: {
+            "_id": "670e4d25ca9fda8f1bf359b9",
+            "name": "Maze Technolabs",
+            "email": "mazetech@demo.com",
+            "image": company_icon,
+        },
+        description: `
+        <p>Join our technology team as a Laravel Developer, where you will be responsible for designing and managing our cloud infrastructure. You will collaborate with development and operations teams to ensure the efficient deployment and scaling of applications.</p>
+        <h2><strong>Key Responsibilities</strong></h2>
+        <ol>
+            <li>Design and implement cloud solutions using AWS, Azure, or Google Cloud Platform.</li>
+            <li>Monitor and optimize cloud resources for performance and cost efficiency.</li>
+            <li>Work with DevOps teams to automate deployment processes.</li>
+            <li>Ensure cloud security and compliance with industry standards.</li>
+            <li>Provide technical support and troubleshooting for cloud-based applications.</li>
+        </ol>
+        <h2><strong>Skills Required</strong></h2>
+        <ol>
+            <li>Experience with cloud platforms and services.</li>
+            <li>Proficiency in scripting languages such as Python or Bash.</li>
+            <li>Strong understanding of networking concepts and security.</li>
+            <li>Experience with container orchestration tools like Kubernetes.</li>
+            <li>Good problem-solving skills and attention to detail.</li>
+        </ol>`,
+        salary: 102000,
+        date: 1729681667114,
+        category: "Programming",
     }
 ];
